@@ -1,0 +1,94 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "documento": "21779161",
+      "password": "5228323123"
+    },
+    {
+      "id": 2,
+      "documento": "1017248801",
+      "password": "5228323123"
+    },
+    {
+      "id": 3,
+      "documento": "101823569",
+      "password": "5228323123"
+    },
+    {
+      "documento": "217791618",
+      "password": "5228323123",
+      "id": 4
+    },
+    {
+      "documento": "217791619",
+      "password": "5228323123",
+      "id": 5
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "codigo": "BC-4156",
+      "descripcion": "manzanas",
+      "inventario": 20,
+      "precio": 2500
+    },
+    {
+      "id": 2,
+      "codigo": "BC-4556",
+      "descripcion": "peras",
+      "inventario": 29,
+      "precio": 7800
+    },
+    {
+      "id": 3,
+      "codigo": "BC-7952",
+      "descripcion": "escoba",
+      "inventario": 50,
+      "precio": 4500
+    },
+    {
+      "id": 4,
+      "codigo": "BC-3564",
+      "descripcion": "detergente",
+      "inventario": 125,
+      "precio": 3000
+    },
+    {
+      "id": 5,
+      "codigo": "BC-5487",
+      "descripcion": "lapiz",
+      "inventario": 125,
+      "precio": 3000
+    },
+    {
+      "id": 6,
+      "codigo": "BC-1596",
+      "descripcion": "Escobas",
+      "inventario": 11,
+      "precio": 5600
+    },
+    {
+      "id": 7,
+      "codigo": "BC-9356",
+      "descripcion": "Colgate",
+      "inventario": 300,
+      "precio": 4500
+    },
+    {
+      "id": 8,
+      "codigo": "BC-1590",
+      "descripcion": "Jabon",
+      "inventario": 520,
+      "precio": 2700
+    },
+    {
+      "id": 9,
+      "codigo": "BC-4789",
+      "descripcion": "Cepillo",
+      "inventario": 2500,
+      "precio": 3000
+    }
+  ]
+}
